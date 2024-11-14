@@ -1,5 +1,7 @@
 # FAQ Acordeón Interactivo
 
+![Pantallazo del proyecto](captura-proyecto.jpg)
+
 Un componente de Preguntas Frecuentes (FAQ) moderno e interactivo con animaciones suaves y diseño responsive. Perfecto para implementar en cualquier sitio web que necesite una sección de FAQ.
 
 ## 📋 Características
